@@ -5,11 +5,12 @@ Instagram, Youtube 등 소셜미디어, 영상 스트리밍 서비스 이용자 
 현재의 수작업 blur 편집 기술은 많은 시간과 비용이 요구되고 있어 이는 매우 비효율적임. 따라서 사생활 보호 및 작업의 효율성 향상을 위해 본 프로젝트를 진행하였음. <br><br>
 
 ### 1. 데이터 수집
-영화 '분노의 질주 : 더 세븐'의 영상 중 일부를 frame화. <br><br>
+영화 '분노의 질주 : 더 세븐'의 영상 중 일부를 frame화. <br>
+일상적인 영상의 재생시간은 길지 않은 경우가 많으므로, 해당 프로젝트 또한 수집할 수 있는 데이터를 50 frames으로 제한하여 진행함. <br><br>
 
 
 ### 2. 데이터 증강
-일상적인 영상의 재생시간은 길지 않은 경우가 많으므로, 해당 프로젝트 또한 수집할 수 있는 데이터를 50 frames으로 제한하여 진행함. 원본 50 frames을 다양한 Data Augmentation 작업을 통해서 최대 1,000 frames까지 증강하였음. <br>
+원본 50 frames을 다양한 Data Augmentation 작업을 통해서 최대 1,000 frames까지 증강하였음. <br>
 <img src="https://user-images.githubusercontent.com/72846750/110194874-35e34d00-7e7e-11eb-888e-1f0dce3bf612.JPG" width="600" height="400"/>
  <br><br>
 
