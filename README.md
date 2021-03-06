@@ -32,7 +32,8 @@ YOLOv3
   - filters = 21
   - max_batches = 6000
   - steps = 4800, 5400
-  - classes = 2 <br>
+  - classes = 2
+
 YOLOv4
 - Darknet framework로 진행.
 - Parameter 수정
