@@ -59,9 +59,9 @@ YOLOv3 모델을 기반으로 성능 평가를 먼저 진행하였음. <br>
 
 ### 7. Blur 처리
 'else'에 대한 ROI를 확인하여 OpenCV-GaussianBlur 처리. <br>
-Face Detection <br>
+- Face Detection <br>
 <img src="https://user-images.githubusercontent.com/72846750/110208179-e70fd480-7eca-11eb-8069-e68697415935.JPG" width="600"/><br><br>
-Face Blurring <br>
+- Face Blurring <br>
 <img src="https://user-images.githubusercontent.com/72846750/110208555-276f5280-7ecb-11eb-8e71-44093035934f.JPG" width="600"/><br><br>
 
 
