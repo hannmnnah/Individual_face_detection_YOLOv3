@@ -8,8 +8,9 @@
 
 
 #### 2. 데이터 증강
-일상적인 영상의 재생시간은 길지 않은 경우가 많으므로, 해당 프로젝트 또한 수집할 수 있는 데이터를 50 frames으로 제한하여 진행함.<br>
-원본 50 frames을 다양한 Data Augmentation 작업을 통해서 최대 1,000 frames까지 증강하였음. <br>
+일상적인 영상의 재생시간은 길지 않은 경우가 많으므로, 해당 프로젝트 또한 수집할 수 있는 데이터를 <br>
+50 frames으로 제한하여 진행함. 원본 50 frames을 다양한 Data Augmentation 작업을 통해서 <br>
+최대 1,000 frames까지 증강하였음. <br>
 <img src="https://user-images.githubusercontent.com/72846750/110194874-35e34d00-7e7e-11eb-888e-1f0dce3bf612.JPG" width="600" height="400"/>
  <br>
 
@@ -20,7 +21,8 @@ CNN 기반의 다양한 모델이 존재하지만, 속도와 정확도면에 상
  
 #### 4. 라벨링 작업
 LabelImg툴을 이용하여 주인공 'Dom'과 그외 인물들 'else'를 구분하여 라벨링. <br>
-1차 라벨링후 YOLO Train 결과, 주인공 'Dom'의 헤어스타일과 유사한 인물 혹은 맨살이 많이 드러난 신체부위 일부를 'Dom'으로 인식하는 경우가 많았음. <br>
+1차 라벨링후 YOLO Train 결과, 주인공 'Dom'의 헤어스타일과 유사한 인물 혹은 <br> 
+맨살이 많이 드러난 신체부위 일부를 'Dom'으로 인식하는 경우가 많았음. <br>
 헤어스타일을 제외한 이목구비 부분만 라벨링 진행.<br><br>
 <img src="https://user-images.githubusercontent.com/72846750/110195809-5530a900-7e83-11eb-81b3-fc7d59afcdc6.png" width="550" height="310"/>
  <br>
