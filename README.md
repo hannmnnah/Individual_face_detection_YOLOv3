@@ -23,11 +23,16 @@ LabelImg툴을 이용하여 주인공 'Dom'과 그외 인물들 'else'를 구분
 <img src="https://user-images.githubusercontent.com/72846750/110195809-5530a900-7e83-11eb-81b3-fc7d59afcdc6.png" width="550" height="310"/>
  <br>
  
+
+
+#### 5. 구조도 
+<img src="https://user-images.githubusercontent.com/72846750/110202050-ace20b00-7ea9-11eb-998e-9b444cff468a.png" width="550" height="310"/>
+ <br>
  
-#### 5. 모델 Train
+#### 6. 모델 Train
 Darknet framework를 통해 YOLOv3, YOLOv4 모델링 진행. <br>
 
  
-#### 5. 평가
+#### 7. 평가
 IoU, mAP
 
