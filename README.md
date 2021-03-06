@@ -16,13 +16,18 @@ CNN 기반의 다양한 모델이 존재하지만, 속도와 정확도면에 상
 <img src="https://user-images.githubusercontent.com/72846750/110195466-94112f80-7e80-11eb-997f-7cdb36b287aa.JPG" width="300" height="200"/>
  <br>
  
-#### 4. 라벨링 작업
+#### 4. 라벨링
 LabelImg툴을 이용하여 주인공 'Dom'과 그외 인물들 'else'를 구분하여 라벨링. <br>
 1차 라벨링후 YOLO Train 결과, 주인공 'Dom'의 헤어스타일과 유사한 인물 혹은 맨살이 많이 드러난 신체부위 일부를 'Dom'으로 인식하는 경우가 많았음. <br>
 헤어스타일을 제외한 이목구비 부분만 라벨링 진행.<br><br>
 <img src="https://user-images.githubusercontent.com/72846750/110195809-5530a900-7e83-11eb-81b3-fc7d59afcdc6.png" width="550" height="310"/>
  <br>
  
-#### 5. 평가 기준
+ 
+#### 5. 모델 Train
+Darknet framework를 통해 YOLOv3, YOLOv4 모델링 진행. <br>
+
+ 
+#### 5. 평가
 IoU, mAP
 
