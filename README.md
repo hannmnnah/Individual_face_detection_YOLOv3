@@ -32,7 +32,7 @@ Darknet framework를 통해 YOLOv3, YOLOv4 모델링 진행. <br>
  
 ### 6. 평가
 원본 50 frames으로 Train시에 다음과 같은 성과를 내었음. <br>
-<img src="https://user-images.githubusercontent.com/72846750/110203338-f7b35100-7eb0-11eb-91d0-72846f198315.JPG" width="200" height="300"/><br>
+<img src="https://user-images.githubusercontent.com/72846750/110203338-f7b35100-7eb0-11eb-91d0-72846f198315.JPG"><br>
 
 
 ### 5. 구조도 
