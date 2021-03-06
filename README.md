@@ -56,7 +56,7 @@ YOLOv3 모델을 기반으로 성능 평가를 먼저 진행하였음. <br>
 위의 데이터셋으로 YOLOv4 모델링을 추가적으로 진행하였으며, 그 결과는 다음과 같음. <br>
 <img src="https://user-images.githubusercontent.com/72846750/110204472-7f4f8e80-7eb6-11eb-9d87-2d00ea3e6c56.JPG" width="600"/><br>
 <img src="https://user-images.githubusercontent.com/72846750/110206576-e757a200-7ec1-11eb-9534-22b6801dc016.jpg" width="600"/><br><br><br>
-Test data중에서 detection하기 어려웠던 data를 통해서 한눈에 모델 성능의 개선을 확인할 수 있음. <br>
+bounding box를 통해서 확인할 수 있듯이, 모델 성능과 함께 점차적으로 모든 인물을 인식해냈으나, 분류에는 어려움을 겪음. <br>
 
 
 
