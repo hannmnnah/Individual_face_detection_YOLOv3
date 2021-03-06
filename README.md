@@ -13,7 +13,7 @@
 
 #### 3. 모델 선정
 CNN 기반의 다양한 모델이 존재하지만, 속도와 정확도면에 상대적으로 우수한 YOLO를 선정.<br><br>
-<img src="https://user-images.githubusercontent.com/72846750/110195466-94112f80-7e80-11eb-997f-7cdb36b287aa.JPG" width="300" height="200"/>
+<img src="https://user-images.githubusercontent.com/72846750/110199392-82895100-7e9b-11eb-9487-1cedc8368d28.png" width="300" height="200"/>
  <br>
  
 #### 4. 라벨링
