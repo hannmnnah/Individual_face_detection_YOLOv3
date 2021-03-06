@@ -62,8 +62,10 @@ bounding box를 통해서 확인할 수 있듯이, 모델 성능과 함께 점�
 
 원본 with YOLOv3<br>
 <img src="https://user-images.githubusercontent.com/72846750/110206497-5bde1100-7ec1-11eb-8277-61fc493829bf.jpg" width="600"/><br><br><br>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🔻<br>
 Rotation, Flip, Zoom-out with YOLOv3<br>
 <img src="https://user-images.githubusercontent.com/72846750/110206568-d7d85900-7ec1-11eb-8fc5-99dc859aec3e.jpg" width="600"/><br><br><br>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🔻<br>
 Rotation, Flip, Zoom-out with YOLOv4<br>
 <img src="https://user-images.githubusercontent.com/72846750/110206576-e757a200-7ec1-11eb-9534-22b6801dc016.jpg" width="600"/><br><br><br>
 
