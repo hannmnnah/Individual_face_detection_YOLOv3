@@ -26,7 +26,7 @@ LabelImg툴을 이용하여 주인공 'Dom'과 그외 인물들 'else'를 구분
 
 
 #### 5. 구조도 
-<img src="https://user-images.githubusercontent.com/72846750/110202050-ace20b00-7ea9-11eb-998e-9b444cff468a.png" width="800" height="550"/>
+<img src="https://user-images.githubusercontent.com/72846750/110202050-ace20b00-7ea9-11eb-998e-9b444cff468a.png" width="600" height="550"/>
  <br>
  
 #### 6. 모델 Train
