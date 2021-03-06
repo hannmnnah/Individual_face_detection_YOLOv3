@@ -69,11 +69,11 @@ YOLOv3 모델을 기반으로 성능 평가를 먼저 진행하였음. <br>
 <img src="https://user-images.githubusercontent.com/72846750/110202050-ace20b00-7ea9-11eb-998e-9b444cff468a.png" width="600" height="550"/>
  <br><br>
  
-### 기여자
-김준성 https://github.com/whistle-boy <br>
-방희란 https://github.com/Heeran-cloud <br>
-서기현 https://github.com/seogihyun <br>
-장한아 https://github.com/hannmnnah <br>
-정혜주 https://github.com/hjung53
+## 기여자
+-김준성 https://github.com/whistle-boy <br>
+-방희란 https://github.com/Heeran-cloud <br>
+- 서기현 https://github.com/seogihyun <br>
+- 장한아 https://github.com/hannmnnah <br>
+- 정혜주 https://github.com/hjung53
 
 
