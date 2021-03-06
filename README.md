@@ -52,7 +52,10 @@ YOLOv3 모델을 기반으로 성능 평가를 먼저 진행하였음. <br>
 (Rotation의 각도는 10도이하로 하였음. 각도를 그 이상 다양화할 경우 오히려 성능 저하) <br>
 <img src="https://user-images.githubusercontent.com/72846750/110204466-765ebd00-7eb6-11eb-9146-61f1d3b55595.JPG" width="600"/><br><br>
 위의 데이터셋으로 YOLOv4 모델링을 추가적으로 진행하였으며, 그 결과는 다음과 같음. <br>
-<img src="https://user-images.githubusercontent.com/72846750/110204472-7f4f8e80-7eb6-11eb-9d87-2d00ea3e6c56.JPG" width="600"/><br>
+<img src="https://user-images.githubusercontent.com/72846750/110204472-7f4f8e80-7eb6-11eb-9d87-2d00ea3e6c56.JPG" width="600"/><br><br>
+Test data중에서 detection하기 어려웠던 data를 통해서 한눈에 모델 성능의 개선을 확인할 수 있음. <br>
+
+
 
 ### 7. 구조도 
 <img src="https://user-images.githubusercontent.com/72846750/110202050-ace20b00-7ea9-11eb-998e-9b444cff468a.png" width="600" height="550"/>
