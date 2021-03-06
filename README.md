@@ -32,11 +32,11 @@ Darknet framework를 통해 YOLOv3, YOLOv4 모델링 진행. <br>
 ### 6. 평가
 YOLOv3 모델을 기반으로 성능 평가를 먼저 진행하였음. <br>
 원본 50 frames으로만 Train하였을때, 결과는 다음과 같음. <br>
-<img src="https://user-images.githubusercontent.com/72846750/110204205-406d0900-7eb5-11eb-89bf-8fc6d6b8fede.JPG" width="600"/><br><br>
+<img src="https://user-images.githubusercontent.com/72846750/110204454-6941ce00-7eb6-11eb-84a0-9cfa6d5bfd60.JPG" width="600"/><br><br>
 여러 데이터 증강기법을 시도하였으며, 그 중에서 'Rotation, Flip, Zoom-out'가 가장 높은 성능을 보였으며, 그 결과는 다음과 같음. <br>
-<img src="https://user-images.githubusercontent.com/72846750/110204220-4ebb2500-7eb5-11eb-8149-82fed084a4ff.JPG" width="600"/><br><br>
+<img src="https://user-images.githubusercontent.com/72846750/110204466-765ebd00-7eb6-11eb-9146-61f1d3b55595.JPG" width="600"/><br><br>
 위의 데이터셋으로 YOLOv4 모델링을 추가적으로 진행하였으며, 그 결과는 다음과 같음. <br>
-<img src="https://user-images.githubusercontent.com/72846750/110204233-58dd2380-7eb5-11eb-8b41-1e24956a8b3b.JPG" width="600"/><br>
+<img src="https://user-images.githubusercontent.com/72846750/110204472-7f4f8e80-7eb6-11eb-9d87-2d00ea3e6c56.JPG" width="600"/><br>
 
 ### 5. 구조도 
 <img src="https://user-images.githubusercontent.com/72846750/110202050-ace20b00-7ea9-11eb-998e-9b444cff468a.png" width="600" height="550"/>
