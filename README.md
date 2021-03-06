@@ -25,7 +25,7 @@ LabelImg툴을 이용하여 주인공 'Dom'과 그외 인물들 'else'를 구분
  <br>
  
 
-### 5. 모델 Train <br>
+### 5. 모델 Train 
 
 YOLOv3
 - Darknet framework로 진행.
@@ -34,7 +34,7 @@ YOLOv3
   - max_batches = 6000
   - steps = 4800, 5400
   - classes = 2
-
+<br>
 YOLOv4
 - Darknet framework로 진행.
 - Parameter 추가 수정
