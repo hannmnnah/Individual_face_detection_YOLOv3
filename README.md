@@ -2,7 +2,7 @@
 
 ### 배경
 Instagram, Youtube 등 소셜미디어, 영상 스트리밍 서비스 이용자 수가 지속적으로 증가함에 따라 일반 대중의 사생활을 침해하는 영상 및 사진 무단 배포가 많은 사회적 이슈로 제기되고 있으며, 
-현재의 수작업 모자이크 편집 기술은 많은 시간과 비용이 요구되고 있어 이는 매우 비효율적임. 따라서 사생활 보호 및 작업의 효율성 향상을 위해 본 프로젝트를 진행하였음. <br>
+현재의 수작업 blur 편집 기술은 많은 시간과 비용이 요구되고 있어 이는 매우 비효율적임. 따라서 사생활 보호 및 작업의 효율성 향상을 위해 본 프로젝트를 진행하였음. <br>
 
 ### 1. 데이터 수집
 영화 '분노의 질주 : 더 세븐'의 영상 중 일부를 frame화. <br>
@@ -56,25 +56,13 @@ YOLOv3 모델을 기반으로 성능 평가를 먼저 진행하였음. <br>
 위의 데이터셋으로 YOLOv4 모델링을 추가적으로 진행하였으며, 그 결과는 다음과 같음. <br>
 <img src="https://user-images.githubusercontent.com/72846750/110204472-7f4f8e80-7eb6-11eb-9d87-2d00ea3e6c56.JPG" width="600"/><br>
 
+### 7. Blur 처리
+ROI를 확인하여 'else'에 해당하는 인물을 다음과 같이 Blur 처리.
+<img src="https://user-images.githubusercontent.com/72846750/110207500-35bb6f80-7ec7-11eb-8949-00c3a02625aa.JPG" width="600" />
+ <br>
 
 
-bounding box를 통해서 확인할 수 있듯이, 모델 성능과 함께 점차적으로 모든 인물을 인식해냈으나, 분류에는 어려움을 겪음. <br>
-
-원본 with YOLOv3<br>
-<img src="https://user-images.githubusercontent.com/72846750/110206497-5bde1100-7ec1-11eb-8277-61fc493829bf.jpg" width="600"/><br><br><br>
-<img src="https://user-images.githubusercontent.com/72846750/110206894-c728e280-7ec3-11eb-8a53-3ed26527f5da.png" width="600"/><br><br><br>
-
-Rotation, Flip, Zoom-out with YOLOv3<br>
-<img src="https://user-images.githubusercontent.com/72846750/110206568-d7d85900-7ec1-11eb-8fc5-99dc859aec3e.jpg" width="600"/><br><br><br>
-　　　　　　　　　　　　🔻<br>
-Rotation, Flip, Zoom-out with YOLOv4<br>
-<img src="https://user-images.githubusercontent.com/72846750/110206576-e757a200-7ec1-11eb-9534-22b6801dc016.jpg" width="600"/><br><br><br>
-
-
-
-
-
-### 7. 구조도 
+### 8. 구조도 
 <img src="https://user-images.githubusercontent.com/72846750/110202050-ace20b00-7ea9-11eb-998e-9b444cff468a.png" width="600" height="550"/>
  <br>
 
