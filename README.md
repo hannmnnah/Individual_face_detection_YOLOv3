@@ -48,6 +48,9 @@ YOLOv4
 YOLOv3 모델을 기반으로 성능 평가를 먼저 진행하였음. <br>
 원본 50 frames으로만 Train하였을때, 결과는 다음과 같음. <br>
 <img src="https://user-images.githubusercontent.com/72846750/110204454-6941ce00-7eb6-11eb-84a0-9cfa6d5bfd60.JPG" width="600"/><br><br>
+
+<img src="https://user-images.githubusercontent.com/72846750/110205944-5206de80-7ebe-11eb-8c0e-a64f22f1ce24.jpg" width="600"/><br><br>
+
 여러 데이터 증강기법을 시도하였으며, 그 중에서 'Rotation, Flip, Zoom-out'가 가장 높은 성능을 보였으며, 그 결과는 다음과 같음. 
 (Rotation의 각도는 10도이하로 하였음. 각도를 그 이상 다양화할 경우 오히려 성능 저하) <br>
 <img src="https://user-images.githubusercontent.com/72846750/110204466-765ebd00-7eb6-11eb-9146-61f1d3b55595.JPG" width="600"/><br><br>
