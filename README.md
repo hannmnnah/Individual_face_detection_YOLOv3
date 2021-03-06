@@ -70,8 +70,8 @@ YOLOv3 모델을 기반으로 성능 평가를 먼저 진행하였음. <br>
  <br><br>
  
 ## 기여자
--김준성 https://github.com/whistle-boy <br>
--방희란 https://github.com/Heeran-cloud <br>
+- 김준성 https://github.com/whistle-boy <br>
+- 방희란 https://github.com/Heeran-cloud <br>
 - 서기현 https://github.com/seogihyun <br>
 - 장한아 https://github.com/hannmnnah <br>
 - 정혜주 https://github.com/hjung53
