@@ -47,7 +47,7 @@ YOLOv4
 ### 6. 모델 평가
 YOLOv3 모델을 기반으로 성능 평가를 먼저 진행하였음. <br>
 원본 50 frames으로만 Train하였을때, 결과는 다음과 같음. <br>
-<img src="https://user-images.githubusercontent.com/72846750/110204454-6941ce00-7eb6-11eb-84a0-9cfa6d5bfd60.JPG" width="600"/><br><br>
+<img src="https://user-images.githubusercontent.com/72846750/110204454-6941ce00-7eb6-11eb-84a0-9cfa6d5bfd60.JPG", "https://user-images.githubusercontent.com/72846750/110205944-5206de80-7ebe-11eb-8c0e-a64f22f1ce24.jpg", width="1200"/><br><br>
 
 <img src="https://user-images.githubusercontent.com/72846750/110205944-5206de80-7ebe-11eb-8c0e-a64f22f1ce24.jpg" width="600"/><br><br>
 
