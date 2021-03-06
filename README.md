@@ -20,7 +20,7 @@ CNN 기반의 다양한 모델이 존재하지만, 속도와 정확도면에 상
  
 #### 4. 라벨링 작업
 LabelImg툴을 이용하여 주인공 'Dom'과 그외 인물들 'else'를 구분하여 라벨링. <br><br>
-<img src="https://user-images.githubusercontent.com/72846750/110195809-5530a900-7e83-11eb-81b3-fc7d59afcdc6.png" width="600" height="300"/>
+<img src="https://user-images.githubusercontent.com/72846750/110195809-5530a900-7e83-11eb-81b3-fc7d59afcdc6.png" width="500" height="300"/>
  <br>
  
 #### 5. 평가 기준
