@@ -58,7 +58,7 @@ YOLOv3 모델을 기반으로 성능 평가를 먼저 진행하였음. <br>
 <img src="https://user-images.githubusercontent.com/72846750/110204472-7f4f8e80-7eb6-11eb-9d87-2d00ea3e6c56.JPG" width="600"/><br><br>
 
 ### 7. Blur 처리
-class 'else'에 대한 ROI를 확인하여 left_x, top_y, width, height 좌표로 OpenCV-GaussianBlur 처리. <br><br>
+'else'에 대한 ROI를 확인하여 left_x, top_y, width, height 좌표로 OpenCV-GaussianBlur 처리. <br><br>
 
 
 ### 8. 구조도 
