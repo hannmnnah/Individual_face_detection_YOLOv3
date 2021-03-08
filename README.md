@@ -1,5 +1,6 @@
 # Face Detection and Blurring using YOLO and openCV
-<font size=-5>PPT자료 : https://drive.google.com/file/d/1RmiuQPhAXZ605U6PgKDNCjEF97aYSnNA/view?usp=sharing</font>
+
+<font size=-2>PPT자료 : https://drive.google.com/file/d/1RmiuQPhAXZ605U6PgKDNCjEF97aYSnNA/view?usp=sharing</font>
 ### 배경
 Instagram, Youtube 등 소셜미디어, 영상 스트리밍 서비스 이용자 수가 지속적으로 증가함에 따라 일반 대중의 사생활을 침해하는 영상 및 사진 무단 배포가 많은 사회적 이슈로 제기되고 있으며, 
 현재의 수작업 blur 편집 기술은 많은 시간과 비용이 요구되고 있어 이는 매우 비효율적임. 따라서 사생활 보호 및 작업의 효율성 향상을 위해 본 프로젝트를 진행하였음. <br><br>
