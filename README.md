@@ -24,7 +24,7 @@ LabelImg툴을 이용하여 주인공 'Dom'과 그외 인물들 'else'로 class�
  <br><br>
  
 ### 4. 모델 선정
-CNN 기반의 다양한 모델이 존재하지만, 속도와 정확도면에 상대적으로 우수한 YOLO를 선정.<br><br>
+CNN 기반의 다양한 모델이 존재하지만, 적정한 정확도와 우수한 속도를 가진 YOLO를 선정.<br><br>
 <img src="https://user-images.githubusercontent.com/72846750/110199392-82895100-7e9b-11eb-9487-1cedc8368d28.png" width="300" height="200"/>
  <br><br>
  
